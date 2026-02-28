@@ -2,4 +2,5 @@
 
 Add your name below:
 
-- Teacher Name
+Mr. Hicks
+Mr. Masoud
